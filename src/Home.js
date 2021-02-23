@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./logo.jpg";
 
 function Home() {
   return (
@@ -22,11 +23,7 @@ function Home() {
         </div>
         <div className="card mx-1 col-sm-5 border-warning mb-3">
           <div className="card-header">
-            <img
-              className="img-fluid img-thumbnail"
-              src="http://msbnagpur.com/images/company-name.jpg"
-              alt="logo"
-            />
+            <img className="img-fluid img-thumbnail" src={logo} alt="logo" />
           </div>
           <div className="card-body">
             <p className="card-text">
