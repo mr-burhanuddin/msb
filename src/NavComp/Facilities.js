@@ -7,22 +7,22 @@ function Facilities() {
       <div className="container my-2 text-center ">
         <h2 className="bg-light text-success">INFRASTRUCTURE</h2>
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/1.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/1.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/2.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/2.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/10.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/10.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/14.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/14.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
@@ -30,7 +30,7 @@ function Facilities() {
       <div className="container my-2 text-center ">
         <h2 className="bg-light text-success">CLASSROOMS</h2>
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/3.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/3.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
@@ -38,42 +38,42 @@ function Facilities() {
       <div className="container my-2 text-center ">
         <h2 className="bg-light text-success">LABS</h2>
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/9.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/9.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/4.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/4.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/5.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/5.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/6.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/6.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/7.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/7.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/8.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/8.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/11.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/11.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/12.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/12.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
@@ -81,17 +81,17 @@ function Facilities() {
       <div className="container my-2 text-center ">
         <h2 className="bg-light text-success">BEYOND ACADEMICS</h2>
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/13.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/13.jpg"
           class="rounded mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/15.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/15.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
         <img
-          src="http://msbnagpur.com/images/facilitiesdown/16.jpg"
+          src="https://i.extraimages.net/images/2021/02/27/16.jpg"
           class="rounded float-center mx-1 my-1"
           alt="..."
         />
