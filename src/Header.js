@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "./Navbar";
 
 function Header() {
   return (
@@ -9,7 +8,6 @@ function Header() {
         className="img-fluid"
         alt="msb banner"
       />
-      <Navbar />
     </div>
   );
 }
